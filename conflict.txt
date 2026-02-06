@@ -1,1 +1,1 @@
-This line is modified in feature-a 
+This line is resolved from feature-a and feature-b
