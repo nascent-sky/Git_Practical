@@ -1,1 +1,2 @@
 Auth feature - MAIN version
+Auth feature - conflict-test version
