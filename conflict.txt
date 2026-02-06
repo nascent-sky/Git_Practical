@@ -1,1 +1,1 @@
-This is the base line 
+This line is modified in feature-b 
