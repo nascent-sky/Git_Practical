@@ -1,7 +1,8 @@
 public class Multiply {
     public static void main(String[] args) {
-        String a = System.getenv("NUM1");
-        String b = System.getenv("NUM2");
+       BufferedReader br = new BufferedReader(new FileReader("input.txt"));
+       int a = Integer.parseInt(br.readLine());
+       int b = Integer.parseInt(br.readLine());
 
 
         int result = Integer.parseInt(a) * Integer.parseInt(b);
